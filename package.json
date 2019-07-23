@@ -22,7 +22,7 @@
     "lint:fix": "eslint src/**/*.js --fix",
     "lint:format": "prettier src/**/*.{js,css,json} --write"
   },
-  "homepage": "https://github.com/costaslavich/goit-react-hw-04-pet-store",
+  "homepage": "https://github.com/costaslavich/goit-react-hw-04-pet-store/build",
   "eslintConfig": {
     "extends": "react-app"
   },
