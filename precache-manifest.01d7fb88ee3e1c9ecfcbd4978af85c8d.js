@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ebc66b75df368f6213394ee3a548d79",
+    "revision": "f08a077cc387a05aeeba8aaf7ed3669e",
     "url": "/goit-react-hw-04-pet-store/index.html"
   },
   {
@@ -12,20 +12,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-pet-store/static/css/HomePage.59b4046e.chunk.css"
   },
   {
-    "revision": "256fd678a8d210e7a14b",
+    "revision": "942f0b404f7153744cd0",
     "url": "/goit-react-hw-04-pet-store/static/css/PetPage.7541c913.chunk.css"
   },
   {
-    "revision": "84bd3037a74868106ab9",
+    "revision": "3e231702a8eaf2e23cf6",
     "url": "/goit-react-hw-04-pet-store/static/css/PetsPage.268615dd.chunk.css"
   },
   {
-    "revision": "d9547e54716798f6a0af",
+    "revision": "59b3f5811e392377fc43",
     "url": "/goit-react-hw-04-pet-store/static/css/main.1c140d1a.chunk.css"
   },
   {
-    "revision": "8237da1e9b2c2d4d1762",
-    "url": "/goit-react-hw-04-pet-store/static/js/6.8fc62f60.chunk.js"
+    "revision": "3e1c2653ca9dcad3a470",
+    "url": "/goit-react-hw-04-pet-store/static/js/6.6cd1578f.chunk.js"
   },
   {
     "revision": "50685fed1e34c9c8592c",
@@ -36,19 +36,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-react-hw-04-pet-store/static/js/HomePage.69d44ea8.chunk.js"
   },
   {
-    "revision": "256fd678a8d210e7a14b",
-    "url": "/goit-react-hw-04-pet-store/static/js/PetPage.e06bcaf7.chunk.js"
+    "revision": "942f0b404f7153744cd0",
+    "url": "/goit-react-hw-04-pet-store/static/js/PetPage.412b8c3e.chunk.js"
   },
   {
-    "revision": "84bd3037a74868106ab9",
-    "url": "/goit-react-hw-04-pet-store/static/js/PetsPage.1aa6f8d3.chunk.js"
+    "revision": "3e231702a8eaf2e23cf6",
+    "url": "/goit-react-hw-04-pet-store/static/js/PetsPage.ce57af46.chunk.js"
   },
   {
-    "revision": "d9547e54716798f6a0af",
-    "url": "/goit-react-hw-04-pet-store/static/js/main.5929a13d.chunk.js"
+    "revision": "59b3f5811e392377fc43",
+    "url": "/goit-react-hw-04-pet-store/static/js/main.49df1152.chunk.js"
   },
   {
-    "revision": "41572f8c776e0b5ae973",
-    "url": "/goit-react-hw-04-pet-store/static/js/runtime~main.491a890d.js"
+    "revision": "05870688403ac0c56c0d",
+    "url": "/goit-react-hw-04-pet-store/static/js/runtime~main.dee2674c.js"
   }
 ]);
