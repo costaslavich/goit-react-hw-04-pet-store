@@ -16,8 +16,8 @@ body {
 }
 
 .containerStyles {
-  maxWidth: 1200px;
-  marginLeft: auto;
-  marginRight: auto;
+  maxwidth: 1200px;
+  marginleft: auto;
+  marginright: auto;
   padding: 0 20px;
-};
+}

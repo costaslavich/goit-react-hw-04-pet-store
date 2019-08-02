@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Switch, Redirect } from 'react-router-dom';
 import Loadable from 'react-loadable';
 import NotFoundPage from '../Pages/NotFound';
-import style from '../styles.css';
+import styles from '../styles.css';
 import Loader from './Loader';
 import Nav from './Nav';
 
@@ -29,7 +29,7 @@ const AsyncPetsPage = Loadable({
 
 const App = () => {
   return (
-    <div className={style.containerStyles}>
+    <div className={styles.containerStyles}>
       <Nav />
       <Switch>
         <Route path="/" exact component={AsyncHomePage} />
