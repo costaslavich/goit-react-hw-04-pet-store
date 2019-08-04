@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Switch, Redirect } from 'react-router-dom';
 import Loadable from 'react-loadable';
 import NotFoundPage from '../Pages/NotFound';
-import styles from '../styles.css';
+import styles from '../index.css';
 import Loader from './Loader';
 import Nav from './Nav';
 

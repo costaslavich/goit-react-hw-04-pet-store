@@ -22,7 +22,7 @@
     "lint:fix": "eslint src/**/*.js --fix",
     "lint:format": "prettier src/**/*.{js,css,json} --write"
   },
-  "homepage": "https://costaslavich.github.io/goit-react-hw-04-pet-store/",
+  "homepage": "https://costaslavich.github.io/goit-react-hw-04-pet-store",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -32,7 +32,7 @@
       "not dead",
       "not op_mini all"
     ],
-    "development": [ 
+    "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
